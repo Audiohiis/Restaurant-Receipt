@@ -1,0 +1,5 @@
+/Users/hedi.tamm/Projects/RestaurantReceipt/RestaurantReceipt/RestaurantReceipt/bin/Debug/RestaurantReceipt.exe
+/Users/hedi.tamm/Projects/RestaurantReceipt/RestaurantReceipt/RestaurantReceipt/bin/Debug/RestaurantReceipt.pdb
+/Users/hedi.tamm/Projects/RestaurantReceipt/RestaurantReceipt/RestaurantReceipt/obj/x86/Debug/RestaurantReceipt.csproj.CoreCompileInputs.cache
+/Users/hedi.tamm/Projects/RestaurantReceipt/RestaurantReceipt/RestaurantReceipt/obj/x86/Debug/RestaurantReceipt.exe
+/Users/hedi.tamm/Projects/RestaurantReceipt/RestaurantReceipt/RestaurantReceipt/obj/x86/Debug/RestaurantReceipt.pdb
